@@ -1,0 +1,6 @@
+﻿RenderPasses/Library
+RenderPasses/Logs
+RenderPasses/ProjectSettings
+RenderPasses/UserSettings
+RenderPasses/Assembly-CSharp.csproj
+*.csproj
