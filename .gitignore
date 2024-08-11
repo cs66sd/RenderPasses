@@ -4,3 +4,7 @@ RenderPasses/ProjectSettings
 RenderPasses/UserSettings
 RenderPasses/Assembly-CSharp.csproj
 *.csproj
+RenderPasses/Temp
+*.sln
+*.sln
+RenderPasses/.idea
